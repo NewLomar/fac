@@ -18,10 +18,13 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	margin-top: 7rem;
 }
 
 .card {
 	background: white;
-	width: 80%;
-	min-height: 400px;
+	width: 85%;
+	min-height: 500px;
+	border-radius: 1rem;
+	box-shadow: 0 0 5px hsl(240, 5%, 91%);
 } 
