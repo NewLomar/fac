@@ -1,5 +1,8 @@
-html, body {
+* {
 	box-sizing: border-box;
+}
+
+html, body {
 	margin: 0;
   padding: 0;
 	min-height: 100%;
@@ -8,6 +11,7 @@ html, body {
 body {
 	background: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
 	background-repeat: no-repeat;
+	height: 100vh;
 }
 
 .container {
