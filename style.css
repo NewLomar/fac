@@ -27,15 +27,19 @@ body {
 	min-height: 31.25rem;
 	border-radius: 1rem;
 	box-shadow: 0 0 0.3125rem black;
+	position: relative;
 }
 
-.image_woman {
+/* .image_woman {
 	width: 18.75rem;
 	height: 12.5rem;
 	background-repeat: no-repeat;
 	background-image: url('./images/illustration-woman-online-mobile.svg') ;
-}
+} */
 
 img {
-	box-shadow: 5px 5px 5px black;
+	position: absolute;
+	width: 18.75rem;
+	height: 12.5rem;
+	top: -100px;
 }
