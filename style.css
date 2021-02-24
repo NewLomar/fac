@@ -24,7 +24,18 @@ body {
 .card {
 	background: white;
 	width: 85%;
-	min-height: 500px;
+	min-height: 31.25rem;
 	border-radius: 1rem;
-	box-shadow: 0 0 5px hsl(240, 5%, 91%);
-} 
+	box-shadow: 0 0 0.3125rem black;
+}
+
+.image_woman {
+	width: 18.75rem;
+	height: 12.5rem;
+	background-repeat: no-repeat;
+	background-image: url('./images/illustration-woman-online-mobile.svg') ;
+}
+
+img {
+	box-shadow: 5px 5px 5px black;
+}
