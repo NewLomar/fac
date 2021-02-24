@@ -30,16 +30,11 @@ body {
 	position: relative;
 }
 
-/* .image_woman {
-	width: 18.75rem;
-	height: 12.5rem;
-	background-repeat: no-repeat;
-	background-image: url('./images/illustration-woman-online-mobile.svg') ;
-} */
+.image_woman {
+	text-align: center;
+}
 
 img {
-	position: absolute;
-	width: 18.75rem;
+	width: 16.75rem;
 	height: 12.5rem;
-	top: -100px;
 }
