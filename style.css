@@ -54,10 +54,10 @@ img {
 	font-weight: 400;
 	color: hsl(240, 6%, 40%);
 	font-size: 0.9rem;
-	text-align: center;
+	/* text-align: center; */
 }
 
 ul {
-	padding-left: 0px;
+	
 	list-style: none;
 }
