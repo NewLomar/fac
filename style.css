@@ -31,10 +31,13 @@ body {
 }
 
 .image_woman {
-	text-align: center;
+	display: flex;
+	justify-content: center;
 }
 
 img {
 	width: 16.75rem;
 	height: 12.5rem;
+	margin-right: 20px;
+	margin-top: -110px;
 }
