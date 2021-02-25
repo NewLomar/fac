@@ -12,6 +12,7 @@ body {
 	background: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
 	background-repeat: no-repeat;
 	height: 100vh;
+	font-family: Kumbh Sans;
 }
 
 .container {
@@ -42,11 +43,19 @@ img {
 	margin-top: -110px;
 }
 
-.text {
-	font-family: Kumbh Sans;
+.text h1 {
+	color: hsl(237, 12%, 16%);
+	font-size: 2.5rem;
+	font-weight: bold;
+	text-align: center;
 }
 
-.text h1 {
-	font-size: 2.5rem;
-	text-align: center;
+.text h4 {
+	font-weight: 400;
+	color: hsl(240, 6%, 40%);
+	font-size: 1rem;
+}
+
+ul {
+	list-style: none;
 }
