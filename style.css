@@ -36,7 +36,7 @@ body {
 	justify-content: center;
 }
 
-img {
+.image_woman img {
 	width: 16.75rem;
 	height: 12.5rem;
 	margin-right: 20px;
@@ -54,10 +54,21 @@ img {
 	font-weight: 400;
 	color: hsl(240, 6%, 40%);
 	font-size: 0.9rem;
-	/* text-align: center; */
+	margin-right: 1px;
 }
 
 ul {
-	
+	padding-left: 20px;
 	list-style: none;
+}
+
+.question {
+	display: flex;
+}
+
+.question img {
+	width: 13px;
+	height: 7px;
+	margin-top: 23px;
+	margin-left: 10px;
 }
