@@ -76,3 +76,7 @@ h4 img {
 h4 hr {
 	border-top: 0px solid;
 }
+
+h4 {
+	margin-top: 0px;
+}
