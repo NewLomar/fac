@@ -64,20 +64,23 @@ ul {
 
 .question {
 	display: flex;
-}
-
-h4 img {
-	width: 13px;
-	height: 7px;
-	margin-top: 23px;
-	margin-left: 10px;
-}
-
-h4 hr {
-	border-top: 0px solid;
+	flex-wrap: wrap;
 }
 
 h4 {
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
+
+h4 img {
+	width: 13px;
+	height: 7px;
+	margin-top: 15px;
+	margin-left: 10px;
+	flex: 1 0 30%;
+}
+
+h4 hr {
+	border-top: 0px solid;
+}
+
