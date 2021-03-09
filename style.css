@@ -86,8 +86,13 @@ hr {
 	width: 300px;
 }
 
-li p {
+/* li p {
 	font-size: 0.75rem;
 	font-weight: 400;
 	color: hsl(240, 6%, 40%);
+	line-height: 1rem;
 }
+
+.visible {
+
+} */
