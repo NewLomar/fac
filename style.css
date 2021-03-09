@@ -6,6 +6,7 @@ html, body {
 	margin: 0;
   padding: 0;
 	min-height: 100%;
+	
 }
 
 body {
@@ -85,3 +86,6 @@ hr {
 	width: 300px;
 }
 
+li p {
+	font-size: 0.75rem;
+}
